@@ -6,3 +6,5 @@ Whith this console app you can:
  - See completed tasks
  - See pending tasks
  - Manage your tasks
+
+ Feel free to fork.
