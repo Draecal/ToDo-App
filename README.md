@@ -1,7 +1,7 @@
 # USAGE
 Tool created for a Node.js training.
 
-Whith this console app you can:
+With this console app you can:
  - Create your tasks
  - See completed tasks
  - See pending tasks
